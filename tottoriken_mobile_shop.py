@@ -60,9 +60,6 @@ m
 folium.Marker(location=[35.5168691,134.201236],popup='ドコモ 鳥取千代水店　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[35.5043919,133.6803168],popup='ドコモ 東伯店　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[35.4465856,133.32791],popup='ドコモ 米子店　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
